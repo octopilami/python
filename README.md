@@ -1,3 +1,5 @@
+# https://github.com/octopilami/python/blob/main/get_cvss_from_dsa.py
+
 Get all CVE and score from a debian DSA release using NVD api v2.0. Get an api key from NVD : https://nvd.nist.gov/developers/request-an-api-key
 
 Requirements :
