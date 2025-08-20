@@ -1,4 +1,4 @@
-Get all CVE and score from a debian DSA release
+Get all CVE and score from a debian DSA release using NVD api (get an api key from NVD)
 
 Requirements :
 * apt install python3-bs4
